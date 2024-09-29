@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584215442921",
+    "project_id": "firstproject-8bbc5",
+    "storage_bucket": "firstproject-8bbc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584215442921:android:e86ab7cda53ccdbecc0778",
+        "android_client_info": {
+          "package_name": "com.example.gdg_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGuPyFB3-X6bQVO-9X42TaSKUvvxEi38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
